@@ -2,4 +2,7 @@
 iOS Weather App using web scraping
 
 
-![Demo](https://youtu.be/KDLcN5TZKGo)
+
+# Video Example (Youtube) Below:
+
+[![demo](https://img.youtube.com/vi/KDLcN5TZKGo/0.jpg)](https://youtu.be/KDLcN5TZKGo)
