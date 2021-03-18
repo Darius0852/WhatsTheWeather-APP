@@ -1,7 +1,10 @@
 # WhatsTheWeather-APP
 iOS Weather App using web scraping
 
-<img src="https://github.com/Darius0852/WhatsTheWeather-APP/blob/main/demoShot.png" width="400">
+<p align="center">
+  <img src="https://github.com/Darius0852/WhatsTheWeather-APP/blob/main/demoShot.png" width="400">
+</p>
+
 
 # Video Example (Youtube) Below:
 
